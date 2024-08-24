@@ -1,0 +1,2 @@
+Anisacatesegura es una aplicación de seguridad comunitaria que viene ayudar con la problemática de seguridad que se vive en la comuna, ya que es muy extensa y los organismo de seguridad no llegan a ser eficientes, también que sirva para mejorar la comunicación entre los residentes. 
+lili es un asistente de la app Anisacatesegura, con el cual el usuario tiene informacion de los lugares seguros y no tan seguro, la ia recopila informacion sobre incidentes en la zona, lo cual con ello puede generar graficos para el usuario. 
